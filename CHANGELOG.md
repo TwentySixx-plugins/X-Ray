@@ -1,5 +1,11 @@
 # Release Notes for X-Ray
 
+## 1.0.1 - 2026-06-22
+
+### Removed
+- Craft Element and Element Collection sidebar panels, along with deep element/collection serialization.
+- Elements and collections now appear as lightweight inline summaries in the Props panel only.
+
 ## 1.0.0 - 2026-06-22
 
 ### Added
