@@ -14,12 +14,17 @@
     "developer-tools",
     "inspector"
   ],
-  "homepage": "https://twentysix.dev",
+  "homepage": "https://github.com/TwentySix-plugins/X-Ray",
+  "authors": [
+    {
+      "name": "TwentySix",
+      "homepage": "https://github.com/TwentySix-plugins"
+    }
+  ],
   "support": {
-    "email": "support@twentysix.dev",
-    "issues": "https://github.com/twentysix/craft-x-ray/issues",
-    "source": "https://github.com/twentysix/craft-x-ray",
-    "docs": "https://github.com/twentysix/craft-x-ray/blob/main/README.md"
+    "issues": "https://github.com/TwentySix-plugins/X-Ray/issues",
+    "source": "https://github.com/TwentySix-plugins/X-Ray",
+    "docs": "https://github.com/TwentySix-plugins/X-Ray/blob/main/README.md"
   },
   "require": {
     "php": ">=8.2",
@@ -34,9 +39,9 @@
     "handle": "x-ray",
     "name": "X-Ray",
     "developer": "TwentySix",
-    "developerUrl": "https://twentysix.dev",
-    "documentationUrl": "https://github.com/twentysix/craft-x-ray/blob/main/README.md",
-    "changelogUrl": "https://raw.githubusercontent.com/twentysix/craft-x-ray/main/CHANGELOG.md",
+    "developerUrl": "https://github.com/TwentySix-plugins",
+    "documentationUrl": "https://github.com/TwentySix-plugins/X-Ray/blob/main/README.md",
+    "changelogUrl": "https://raw.githubusercontent.com/TwentySix-plugins/X-Ray/main/CHANGELOG.md",
     "description": "A visual X-ray for Craft CMS Twig templates — hover any front-end element to see which template or component rendered it, and the variables it received.",
     "class": "twentysix\\xray\\Plugin"
   },

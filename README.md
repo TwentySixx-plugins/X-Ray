@@ -54,8 +54,7 @@ X-Ray runs entirely within your own Craft install. It makes no external/network 
 
 ## Support
 
-- Issues: https://github.com/twentysix/craft-x-ray/issues
-- Email: support@twentysix.dev
+- Issues: https://github.com/TwentySix-plugins/X-Ray/issues
 
 ## License
 
